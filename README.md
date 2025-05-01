@@ -7,5 +7,5 @@ This repository contains experiments on using Small Language Models (SLMs) like 
 
 We evaluate fine-tuning strategies including LoRA, sequential transfer learning, and multi-task learning via X-LoRA.
 
-## 🧪 Project Structure
+## Project Structure
 
