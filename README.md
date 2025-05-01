@@ -1,4 +1,4 @@
-# Financial NLP - Sentiment, Summarization & QA
+# Finetuning Language Model for Financial Domain - Sentiment, Summarization & QA
 
 This repository contains experiments on using Small Language Models (SLMs) like SmolLM2 to perform:
 - Financial Sentiment Analysis
