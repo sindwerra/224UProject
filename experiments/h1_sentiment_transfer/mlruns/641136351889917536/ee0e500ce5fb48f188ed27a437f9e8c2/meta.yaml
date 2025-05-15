@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/641136351889917536/ee0e500ce5fb48f188ed27a437f9e8c2/artifacts
+end_time: 1747235334704
+entry_point_name: ''
+experiment_id: '641136351889917536'
+lifecycle_stage: active
+run_id: ee0e500ce5fb48f188ed27a437f9e8c2
+run_name: redolent-skunk-874
+run_uuid: ee0e500ce5fb48f188ed27a437f9e8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747233153373
+status: 3
+tags: []
+user_id: dl38986

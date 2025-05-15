@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/639185438355143837/3edb9a5f2ddf44db8cf069fb9f76b170/artifacts
+end_time: 1746413818887
+entry_point_name: ''
+experiment_id: '639185438355143837'
+lifecycle_stage: active
+run_id: 3edb9a5f2ddf44db8cf069fb9f76b170
+run_name: capable-auk-759
+run_uuid: 3edb9a5f2ddf44db8cf069fb9f76b170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746413792262
+status: 4
+tags: []
+user_id: zeus

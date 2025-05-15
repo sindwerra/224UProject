@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/641136351889917536/423afdba45214bfd98c4bd6f9da3e274/artifacts
+end_time: 1747231489042
+entry_point_name: ''
+experiment_id: '641136351889917536'
+lifecycle_stage: active
+run_id: 423afdba45214bfd98c4bd6f9da3e274
+run_name: charming-hen-788
+run_uuid: 423afdba45214bfd98c4bd6f9da3e274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231486775
+status: 3
+tags: []
+user_id: dl38986

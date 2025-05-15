@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/639185438355143837/654ac13acc94490bb054b07cd2e8e2b1/artifacts
+end_time: 1746413909149
+entry_point_name: ''
+experiment_id: '639185438355143837'
+lifecycle_stage: active
+run_id: 654ac13acc94490bb054b07cd2e8e2b1
+run_name: vaunted-ram-221
+run_uuid: 654ac13acc94490bb054b07cd2e8e2b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746413852591
+status: 3
+tags: []
+user_id: zeus

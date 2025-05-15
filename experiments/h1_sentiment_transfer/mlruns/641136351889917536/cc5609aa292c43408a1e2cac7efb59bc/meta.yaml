@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/641136351889917536/cc5609aa292c43408a1e2cac7efb59bc/artifacts
+end_time: 1747230986264
+entry_point_name: ''
+experiment_id: '641136351889917536'
+lifecycle_stage: active
+run_id: cc5609aa292c43408a1e2cac7efb59bc
+run_name: monumental-ox-830
+run_uuid: cc5609aa292c43408a1e2cac7efb59bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230983669
+status: 3
+tags: []
+user_id: dl38986

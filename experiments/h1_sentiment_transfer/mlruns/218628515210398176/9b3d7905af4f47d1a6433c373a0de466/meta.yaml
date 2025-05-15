@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/218628515210398176/9b3d7905af4f47d1a6433c373a0de466/artifacts
+end_time: 1747221499625
+entry_point_name: ''
+experiment_id: '218628515210398176'
+lifecycle_stage: active
+run_id: 9b3d7905af4f47d1a6433c373a0de466
+run_name: test_evaluation
+run_uuid: 9b3d7905af4f47d1a6433c373a0de466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747221499611
+status: 4
+tags: []
+user_id: dl38986

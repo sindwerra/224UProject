@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/641136351889917536/568242209f914381b4442d6418716bc5/artifacts
+end_time: 1747226727232
+entry_point_name: ''
+experiment_id: '641136351889917536'
+lifecycle_stage: active
+run_id: 568242209f914381b4442d6418716bc5
+run_name: bedecked-seal-638
+run_uuid: 568242209f914381b4442d6418716bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226718335
+status: 3
+tags: []
+user_id: dl38986

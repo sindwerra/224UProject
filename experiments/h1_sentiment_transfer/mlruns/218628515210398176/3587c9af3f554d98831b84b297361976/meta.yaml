@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/218628515210398176/3587c9af3f554d98831b84b297361976/artifacts
+end_time: 1747212028378
+entry_point_name: ''
+experiment_id: '218628515210398176'
+lifecycle_stage: active
+run_id: 3587c9af3f554d98831b84b297361976
+run_name: capable-auk-759
+run_uuid: 3587c9af3f554d98831b84b297361976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747211886930
+status: 4
+tags: []
+user_id: dl38986

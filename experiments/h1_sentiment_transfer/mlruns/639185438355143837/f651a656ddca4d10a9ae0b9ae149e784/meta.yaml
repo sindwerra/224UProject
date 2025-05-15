@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/639185438355143837/f651a656ddca4d10a9ae0b9ae149e784/artifacts
+end_time: 1746431329643
+entry_point_name: ''
+experiment_id: '639185438355143837'
+lifecycle_stage: active
+run_id: f651a656ddca4d10a9ae0b9ae149e784
+run_name: agreeable-fish-920
+run_uuid: f651a656ddca4d10a9ae0b9ae149e784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746414042177
+status: 3
+tags: []
+user_id: zeus

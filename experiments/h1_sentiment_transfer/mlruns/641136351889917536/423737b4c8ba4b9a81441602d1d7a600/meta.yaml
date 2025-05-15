@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/641136351889917536/423737b4c8ba4b9a81441602d1d7a600/artifacts
+end_time: 1747229322291
+entry_point_name: ''
+experiment_id: '641136351889917536'
+lifecycle_stage: active
+run_id: 423737b4c8ba4b9a81441602d1d7a600
+run_name: clean-midge-389
+run_uuid: 423737b4c8ba4b9a81441602d1d7a600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227358605
+status: 3
+tags: []
+user_id: dl38986

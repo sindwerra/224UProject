@@ -1,0 +1,1 @@
+{'dtype': 'q4', 'kv_cache_dtype': {'q4f16': 'float16', 'fp16': 'float16'}, 'use_external_data_format': {'model.onnx': True, 'model_fp16.onnx': True}}

@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/224UProject/experiments/h1_sentiment_transfer/mlruns/639185438355143837/24c7ab11c1bd4880a71b32d6aef514ce/artifacts
+end_time: 1746413970469
+entry_point_name: ''
+experiment_id: '639185438355143837'
+lifecycle_stage: active
+run_id: 24c7ab11c1bd4880a71b32d6aef514ce
+run_name: fun-zebra-803
+run_uuid: 24c7ab11c1bd4880a71b32d6aef514ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746413923096
+status: 3
+tags: []
+user_id: zeus
